@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/shiftipv4",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Shift and reshape ipv4 text streams with deterministic transforms.",
+  "bin": {
+    "shiftipv4": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/shiftipv4.git"
+  },
+  "homepage": "https://theworker02.github.io/shiftipv4/",
+  "keywords": [
+    "shift",
+    "ipv4",
+    "text",
+    "cli",
+    "toolkit"
+  ]
+}
